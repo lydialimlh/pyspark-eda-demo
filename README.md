@@ -6,7 +6,7 @@ Just messing around with Pyspark =)
 - `uv` package manager
 - Python 3.10
 - Java (Required by Pyspark)
-- OpenJDK 17, if you intend to use pyspark 4.0.0, installed via `brew install openjdk@17`
+- OpenJDK 17, if you intend to use pyspark 3.5.5, installed via `brew install openjdk@17`
 - Kaggle API key in the format of `kaggle.json` in the root directory
 
 # Setup

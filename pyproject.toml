@@ -8,5 +8,6 @@ dependencies = [
     "ipykernel>=6.29.5",
     "kagglehub>=0.3.12",
     "pandas>=2.2.3",
-    "pyspark>=4.0.0",
+    "pyspark==3.5.5",
+    "sparkdq>=0.7.1",
 ]
