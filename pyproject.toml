@@ -7,5 +7,6 @@ requires-python = ">=3.10"
 dependencies = [
     "ipykernel>=6.29.5",
     "kagglehub>=0.3.12",
+    "pandas>=2.2.3",
     "pyspark>=4.0.0",
 ]
