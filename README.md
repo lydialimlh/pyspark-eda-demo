@@ -12,5 +12,9 @@ Just messing around with Pyspark =)
 # Setup
 
 1. Install uv: `brew install uv`
-2. Install the project dependencies by running `uv sync`.
-3. Run the get_dataset.ipynb notebook to download the dataset and move it to project root directory.
+2. Install the project dependencies by running `uv sync` in the project root directory.
+
+# Run the notebooks
+1. Run the get_dataset.ipynb notebook to download the dataset and move it to project root directory.
+2. Run the unnest_and_parquet.ipynb notebook to unnest the dataset and save the data as a parquet file.
+3. Run the main.ipynb notebook to clean the dataset and generate charts.
