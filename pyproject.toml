@@ -7,7 +7,10 @@ requires-python = ">=3.10"
 dependencies = [
     "ipykernel>=6.29.5",
     "kagglehub>=0.3.12",
+    "matplotlib>=3.10.3",
+    "nbformat>=5.10.4",
     "pandas>=2.2.3",
+    "plotly>=6.1.1",
     "pyspark==3.5.5",
     "sparkdq>=0.7.1",
 ]
